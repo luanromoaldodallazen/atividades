@@ -30,3 +30,6 @@ Widget build(BuildContext context) {
 # ETAPA 4:
 cd birdle
 flutter run -d chrome
+
+# ETAPA 5:
+child: Text('Meu app Birdle'),
