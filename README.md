@@ -25,3 +25,13 @@ class MainApp extends StatelessWidget {
 terminal:
 cd birdle
 flutter run -d chrome
+
+
+# EXPLICAÇÕES
+1. projeto de jogo estilo termo
+2. criação do flutter pelo terminal
+3. estrutura do codigo
+4. executando o jogo pelo terminal
+5. mudando o texto
+6. resumo do projeto
+7. iniciano o jogo
