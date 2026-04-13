@@ -8,6 +8,4 @@ integrantes(1): Luan Romoaldo Chagas Dallazen
 flutter create birdle --empty
 
 # ETAPA 3:
-void main() {
-  runApp(const MainApp());
-}
+import 'package:flutter/material.dart';
