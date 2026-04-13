@@ -20,3 +20,7 @@ class MainApp extends StatelessWidget {
     );
   }
 }
+
+terminal:
+cd birdle
+flutter run -d chrome
